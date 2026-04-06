@@ -1,0 +1,10 @@
+[AdaptiveTransparency]
+enabled=true
+
+[Desktop Entry]
+Name=Aura Vitrea
+X-KDE-PluginInfo-Author=misaka10987
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Aura Vitrea
+X-KDE-PluginInfo-Version=0.1.0
+X-Plasma-API=5.0
