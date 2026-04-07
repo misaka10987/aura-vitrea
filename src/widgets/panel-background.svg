@@ -27,9 +27,9 @@
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="16.105536"
-     inkscape:cx="5.52605"
-     inkscape:cy="27.599205"
+     inkscape:zoom="45.553335"
+     inkscape:cx="37.066441"
+     inkscape:cy="12.106688"
      inkscape:window-width="1829"
      inkscape:window-height="1075"
      inkscape:window-x="0"
@@ -297,9 +297,16 @@
      transform="translate(38,10)">
     <path
        d="M 0,0 V 6 H 6 C 6,2 4,0 0,0 Z"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        id="path3118"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.5;"
+       d="M 0,1 C 3,1 5,3 5,6 H 6 C 6,2 4,0 0,0"
+       class="ColorScheme-Background"
+       fill="currentColor"
+       id="path3118-7"
        sodipodi:nodetypes="cccc" />
   </g>
   <g
