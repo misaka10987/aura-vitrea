@@ -24,12 +24,12 @@
      inkscape:pagecheckerboard="1"
      inkscape:blackoutopacity="0.0"
      showgrid="true"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="bottomright"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="45.553335"
-     inkscape:cx="37.066441"
-     inkscape:cy="12.106688"
+     inkscape:zoom="32.211072"
+     inkscape:cx="44.223924"
+     inkscape:cy="52.078366"
      inkscape:window-width="1829"
      inkscape:window-height="1075"
      inkscape:window-x="0"
@@ -287,9 +287,16 @@
      transform="translate(0,10)">
     <path
        d="M 0,6 H 6 V 0 C 2,0 0,2 0,6 Z"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        id="path3115"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.5;"
+       d="m 1,6 c 0,-3 2,-5 5,-5 V 0 C 2,0 0,2 0,6"
+       class="ColorScheme-Background"
+       fill="currentColor"
+       id="path3118-7-6"
        sodipodi:nodetypes="cccc" />
   </g>
   <g
@@ -314,9 +321,16 @@
      transform="translate(0,48)">
     <path
        d="M 6,6 V 0 H 0 c 0,4 2,6 6,6 z"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        id="path3124"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.5;"
+       d="m 6,5 c -3,0 -5,-2 -5,-5 H 0 c 0,4 2,6 6,6"
+       class="ColorScheme-Background"
+       fill="currentColor"
+       id="path3118-7-6-5"
        sodipodi:nodetypes="cccc" />
   </g>
   <g
@@ -324,9 +338,16 @@
      transform="translate(38,48)">
     <path
        d="M 0,6 V 0 H 6 C 6,4 4,6 0,6 Z"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        id="path3121"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.5;"
+       d="M 5,0 C 5,3 3,5 0,5 V 6 C 4,6 6,4 6,0"
+       class="ColorScheme-Background"
+       fill="currentColor"
+       id="path3118-7-6-5-5"
        sodipodi:nodetypes="cccc" />
   </g>
   <rect
