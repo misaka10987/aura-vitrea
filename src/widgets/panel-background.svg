@@ -6,7 +6,7 @@
    height="64"
    viewBox="0 0 157 64"
    width="157"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="panel-background.svg"
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,11 +27,11 @@
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8.0527682"
-     inkscape:cx="113.81179"
-     inkscape:cy="31.479858"
-     inkscape:window-width="1920"
-     inkscape:window-height="1119"
+     inkscape:zoom="16.105536"
+     inkscape:cx="5.52605"
+     inkscape:cy="27.599205"
+     inkscape:window-width="1829"
+     inkscape:window-height="1075"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -39,7 +39,10 @@
        type="xygrid"
        id="grid988"
        originx="0"
-       originy="4" />
+       originy="4"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs15">
@@ -201,7 +204,7 @@
     <rect
        id="rect4152"
        height="6"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        width="32"
        x="0"
@@ -219,7 +222,7 @@
     <rect
        id="rect4148"
        height="6"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        width="32"
        x="0"
@@ -237,7 +240,7 @@
     <rect
        id="rect4144"
        height="32"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        width="6"
        x="0"
@@ -255,7 +258,7 @@
     <rect
        id="rect4140"
        height="32"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        width="6"
        x="0"
@@ -273,7 +276,7 @@
     <rect
        id="rect4138"
        height="32"
-       style="opacity:0.85;fill:currentColor"
+       style="opacity:0.5;fill:currentColor"
        class="ColorScheme-Background"
        width="32"
        x="0"
